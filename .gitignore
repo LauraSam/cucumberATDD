@@ -1,0 +1,6 @@
+*.
+demo-app
+errorShts
+node_modules
+CHANGELOG.md
+debug.log
